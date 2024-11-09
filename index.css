@@ -22,7 +22,7 @@ h1{
   font-size: 50px;
   box-shadow: 2px black;
 }
-div p{
+div h2{
   font-size: 50px;
   color: #555;
   text-align: center;
@@ -31,4 +31,14 @@ div img{
   width: 40%;
   height: auto;
   text-align: left;
+}
+div #bike{
+  width: 55%;
+  text-align: right;
+  height: auto;
+}
+div p{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 15px;
+  color: black;
 }
