@@ -35,3 +35,9 @@ h1{
   justify-content: center; 
   width: 100%;     /* Ensures image maintains aspect ratio */
 }
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}

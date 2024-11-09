@@ -55,3 +55,9 @@ h1{
 .item ul li {
   margin: 5px 0;
 }
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
